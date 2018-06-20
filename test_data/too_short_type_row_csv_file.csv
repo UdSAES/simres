@@ -1,0 +1,5 @@
+timestamp;a.b;a.c.d;a.c.e
+Number;Boolean;String
+s;W;;
+0;1.2;true;a
+1;2;false;b
